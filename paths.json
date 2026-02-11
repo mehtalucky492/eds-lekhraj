@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-lekhraj/:/",
-    "/content/eds-lekhraj/configuration:/.helix/config.json",
-    "/content/eds-lekhraj/metadata:/metadata.json"
+    "/content/lekhraj-eds/:/",
+    "/content/lekhraj-eds/configuration:/.helix/config.json",
+    "/content/lekhraj-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-lekhraj/"
+    "/content/lekhraj-eds/"
   ]
 }
